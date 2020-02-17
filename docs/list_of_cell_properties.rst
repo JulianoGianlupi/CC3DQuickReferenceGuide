@@ -2,7 +2,7 @@ List of cell properties
 ======================================================================================
 
 .. csv-table::
-    :header: "Name", "Command", "Fixed?", "Comments"
+    :header: "Name", "Command", "Read only?", "Comments"
     :widths: 30, 40, 13, 68
 
     Cell identity, ``cell.id``, Yes, Unique cell identification number
